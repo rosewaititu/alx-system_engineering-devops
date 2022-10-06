@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod dxr-xr-r hello
+chmod +114 hello
