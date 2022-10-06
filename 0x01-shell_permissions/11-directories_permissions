@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo=a+x{}\;
+chmod -R
