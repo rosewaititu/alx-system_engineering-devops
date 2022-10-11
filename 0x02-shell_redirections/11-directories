@@ -1,3 +1,2 @@
 #!/bin/bash
-t -path '*/\.*' -type f | wc -l
-
+find . -not -path '*/\.*' -type f | wc -l
